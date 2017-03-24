@@ -46,7 +46,7 @@ function download_image() {
   local IMAGE_ID="$(printf '%012d' ${FLICKR_ID})"
   # local IMAGE="$(sed -n ${ID}p ${TARGET_PATH}/dataset/SBU_captioned_photo_dataset_urls.txt)"
   local IMAGE=$(echo $ID | awk -F '\t' '{print $9}' | sed 's/^.\(.*\).$/\1/' )
-  local IMAGE_PATH="${TARGET_PATH}/${DATASET}/${DATASET}_${IMAGE_ID}.jpg"
+  local IMAGE_PATH="${TARGET_PATH}/${DATASET}/${DATASET}_${IMAGE_ID}.png"
   # download images
   mkdir -p ${TARGET_PATH}/${DATASET}
   wget -r -nH --cut-dirs=5 -nc "$IMAGE" -O $IMAGE_ID.CEL.gz
