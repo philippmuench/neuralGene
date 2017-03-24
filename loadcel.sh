@@ -55,9 +55,10 @@ function download_image() {
   echo ${CAPTION} ${FLICKR_ID} ${IMAGE_ID} ${IMAGE_PATH} ${IMAGE} ${FLICKR_ID}
   mkdir -p tmp
   # generate json file
-   cat "${OUTPUT}" | jq ". + [ {\"captions\": [ \"${CAPTION}\" ], \"id\": \"${IMAGE_ID}\", \"file_path\": \"${IMAGE_PATH}\", \"url\": \"${IMAGE}\", \"image_id\": \"${FLICKR_ID}\"  }]" > tmp/tmp.file.tmp
-
- mv tmp/tmp.file.tmp "${OUTPUT}"
+  if [ -f ${IMAGE_PATH} ]; then
+     cat "${OUTPUT}" | jq ". + [ {\"captions\": [ \"${CAPTION}\" ], \"id\": \"${IMAGE_ID}\", \"file_path\": \"${IMAGE_PATH}\", \"url\": \"${IMAGE}\", \"image_id\": \"${FLICKR_ID}\"  }]" > tmp/tmp.file.tmp
+     mv tmp/tmp.file.tmp "${OUTPUT}"
+  fi
 }
 
 # Check if we are sudoer or not
