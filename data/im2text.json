@@ -1,0 +1,182 @@
+[
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of TF1 with control vector_1"
+    ],
+    "id": "000001581898",
+    "file_path": "data/im2text/im2text_000001581898.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1581nnn/GSM1581898/suppl",
+    "image_id": "1581898"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of TF1 with control vector_2"
+    ],
+    "id": "000001581899",
+    "file_path": "data/im2text/im2text_000001581899.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1581nnn/GSM1581899/suppl",
+    "image_id": "1581899"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of TF1 with control vector_3"
+    ],
+    "id": "000001581900",
+    "file_path": "data/im2text/im2text_000001581900.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1581nnn/GSM1581900/suppl",
+    "image_id": "1581900"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of TF1 with human PRL3_4"
+    ],
+    "id": "000001581901",
+    "file_path": "data/im2text/im2text_000001581901.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1581nnn/GSM1581901/suppl",
+    "image_id": "1581901"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of TF1 with human PRL3_5"
+    ],
+    "id": "000001581902",
+    "file_path": "data/im2text/im2text_000001581902.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1581nnn/GSM1581902/suppl",
+    "image_id": "1581902"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of TF1 with human PRL3_6"
+    ],
+    "id": "000001581903",
+    "file_path": "data/im2text/im2text_000001581903.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1581nnn/GSM1581903/suppl",
+    "image_id": "1581903"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 0, biological rep1"
+    ],
+    "id": "000002451715",
+    "file_path": "data/im2text/im2text_000002451715.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451715/suppl",
+    "image_id": "2451715"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 0, biological rep2"
+    ],
+    "id": "000002451716",
+    "file_path": "data/im2text/im2text_000002451716.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451716/suppl",
+    "image_id": "2451716"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 0, biological rep3"
+    ],
+    "id": "000002451717",
+    "file_path": "data/im2text/im2text_000002451717.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451717/suppl",
+    "image_id": "2451717"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 6, biological rep1"
+    ],
+    "id": "000002451718",
+    "file_path": "data/im2text/im2text_000002451718.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451718/suppl",
+    "image_id": "2451718"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 6, biological rep2"
+    ],
+    "id": "000002451719",
+    "file_path": "data/im2text/im2text_000002451719.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451719/suppl",
+    "image_id": "2451719"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 6, biological rep3"
+    ],
+    "id": "000002451720",
+    "file_path": "data/im2text/im2text_000002451720.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451720/suppl",
+    "image_id": "2451720"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 10, biological rep1"
+    ],
+    "id": "000002451721",
+    "file_path": "data/im2text/im2text_000002451721.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451721/suppl",
+    "image_id": "2451721"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 10, biological rep2"
+    ],
+    "id": "000002451722",
+    "file_path": "data/im2text/im2text_000002451722.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451722/suppl",
+    "image_id": "2451722"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 10, biological rep3"
+    ],
+    "id": "000002451723",
+    "file_path": "data/im2text/im2text_000002451723.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451723/suppl",
+    "image_id": "2451723"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 17, biological rep1"
+    ],
+    "id": "000002451724",
+    "file_path": "data/im2text/im2text_000002451724.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451724/suppl",
+    "image_id": "2451724"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 17, biological rep2"
+    ],
+    "id": "000002451725",
+    "file_path": "data/im2text/im2text_000002451725.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451725/suppl",
+    "image_id": "2451725"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 17, biological rep3"
+    ],
+    "id": "000002451726",
+    "file_path": "data/im2text/im2text_000002451726.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451726/suppl",
+    "image_id": "2451726"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 30, biological rep1"
+    ],
+    "id": "000002451727",
+    "file_path": "data/im2text/im2text_000002451727.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451727/suppl",
+    "image_id": "2451727"
+  },
+  {
+    "captions": [
+      "RNA Sample of Homo sapiens organism of cells at day 30, biological rep2"
+    ],
+    "id": "000002451728",
+    "file_path": "data/im2text/im2text_000002451728.jpg",
+    "url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2451nnn/GSM2451728/suppl",
+    "image_id": "2451728"
+  }
+]
