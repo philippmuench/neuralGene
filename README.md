@@ -2,7 +2,7 @@
 
 ## create learning dataset
 
-load `CEL` gene expression files from NCBI
+load `CEL` gene expression files from NCBI based on `samples.tsv` file
 
 ```
 ./loadcell.sh
