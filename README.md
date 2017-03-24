@@ -25,3 +25,7 @@ RNA Sample of Homo sapiens organism of TF1 with human PRL3_4
 RNA Sample of Homo sapiens organism of cells at day 0, biological rep1"
 ```
 
+### preprocess
+use the preprocessing scripts from neuraltalk2
+`python prepro.py --input_json coco/im2text.json --num_val 5`
+this will create `data.h5` and `data.json`
